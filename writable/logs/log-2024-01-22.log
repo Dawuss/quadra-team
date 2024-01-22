@@ -1,0 +1,112 @@
+CRITICAL - 2024-01-22 00:34:05 --> unlink(C:\xampp\htdocs\ci4_recruitment\writable\debugbar/debugbar_1705854393.647963.json): No such file or directory
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 76.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp\\htdocs\\ci4_recruitment\\writable\\debugbar/debugbar_1705854393.647963.json): No such file or directory', 'SYSTEMPATH\\Debug\\Toolbar\\Collectors\\History.php', 76)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(76): unlink('FCPATH\\writable\\debugbar/debugbar_1705854393.647963.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(495): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1705854843.739056', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(472): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(326): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 00:34:30 --> unlink(C:\xampp\htdocs\ci4_recruitment\writable\debugbar/debugbar_1705854465.086058.json): No such file or directory
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 76.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp\\htdocs\\ci4_recruitment\\writable\\debugbar/debugbar_1705854465.086058.json): No such file or directory', 'SYSTEMPATH\\Debug\\Toolbar\\Collectors\\History.php', 76)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(76): unlink('FCPATH\\writable\\debugbar/debugbar_1705854465.086058.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(495): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1705854869.772735', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(472): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(326): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 00:35:47 --> unlink(C:\xampp\htdocs\ci4_recruitment\writable\debugbar/debugbar_1705854844.311041.json): No such file or directory
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 76.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp\\htdocs\\ci4_recruitment\\writable\\debugbar/debugbar_1705854844.311041.json): No such file or directory', 'SYSTEMPATH\\Debug\\Toolbar\\Collectors\\History.php', 76)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(76): unlink('FCPATH\\writable\\debugbar/debugbar_1705854844.311041.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(495): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1705854946.043348', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(472): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(326): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 00:36:10 --> file_get_contents(C:\xampp\htdocs\ci4_recruitment\writable\debugbar/debugbar_1705854871.456852.json): Failed to open stream: No such file or directory
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 82.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_recruitment\\writable\\debugbar/debugbar_1705854871.456852.json): Failed to open stream: No such file or directory', 'SYSTEMPATH\\Debug\\Toolbar\\Collectors\\History.php', 82)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(82): file_get_contents('FCPATH\\writable\\debugbar/debugbar_1705854871.456852.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(495): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1705854969.024150', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(472): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(326): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 00:36:18 --> unlink(C:\xampp\htdocs\ci4_recruitment\writable\debugbar/debugbar_1705854946.043348.json): No such file or directory
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 76.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp\\htdocs\\ci4_recruitment\\writable\\debugbar/debugbar_1705854946.043348.json): No such file or directory', 'SYSTEMPATH\\Debug\\Toolbar\\Collectors\\History.php', 76)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(76): unlink('FCPATH\\writable\\debugbar/debugbar_1705854946.043348.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(495): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1705854978.187329', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(472): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(326): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 00:49:09 --> file_get_contents(C:\xampp\htdocs\ci4_recruitment\writable\debugbar/debugbar_1705854979.539745.json): Failed to open stream: No such file or directory
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 82.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(C:\\xampp\\htdocs\\ci4_recruitment\\writable\\debugbar/debugbar_1705854979.539745.json): Failed to open stream: No such file or directory', 'SYSTEMPATH\\Debug\\Toolbar\\Collectors\\History.php', 82)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(82): file_get_contents('FCPATH\\writable\\debugbar/debugbar_1705854979.539745.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(495): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1705855746.411033', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(472): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(326): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-22 07:50:44 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2024-01-22 07:50:44 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1669): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `vacancies`
+WHERE `status` = :status:', [...], false)
+ 3 SYSTEMPATH\Model.php(550): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+ 4 APPPATH\Controllers\Vacancy.php(31): CodeIgniter\Model->countAllResults()
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Vacancy->index()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vacancy))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2024-01-22 13:24:45 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2024-01-22 13:24:45 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1669): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `vacancies`
+WHERE `status` = :status:', [...], false)
+ 3 SYSTEMPATH\Model.php(550): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+ 4 APPPATH\Controllers\Vacancy.php(31): CodeIgniter\Model->countAllResults()
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Vacancy->index()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vacancy))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2024-01-22 14:01:27 --> Trying to access array offset on value of type null
+in APPPATH\Views\pages\vacancies\edit.php on line 32.
+ 1 APPPATH\Views\pages\vacancies\edit.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\pages\\vacancies\\edit.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\vacancies\\edit.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/vacancies/edit', [], true)
+ 5 APPPATH\Controllers\Main.php(279): view('pages/vacancies/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Main->vacancy_edit('FCPATH\\assets', 'logo.png')
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-22 14:01:29 --> Trying to access array offset on value of type null
+in APPPATH\Views\pages\vacancies\edit.php on line 32.
+ 1 APPPATH\Views\pages\vacancies\edit.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\pages\\vacancies\\edit.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\vacancies\\edit.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/vacancies/edit', [], true)
+ 5 APPPATH\Controllers\Main.php(279): view('pages/vacancies/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Main->vacancy_edit('FCPATH\\assets', 'logo.png')
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
